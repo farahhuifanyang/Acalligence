@@ -6,5 +6,5 @@
 ## Framework Template for MMKG-based Systems
 
 - 20220503
-- Instructions:
-- Figure of template:
+- Instructions: SystemDesignDocs/AboutMMKG/MMKG-basedSystemDesign.pdf
+- Figure of template: SystemDesignDocs/FiguresForDesign/FrameworkTemplate.png
