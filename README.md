@@ -7,4 +7,5 @@
 
 - 20220503
 - [Instructions](https://github.com/farahhuifanyang/Acalligence/blob/365af18331c13ac1e5247d9bd3bb7b8db71062c0/SystemDesignDocs/AboutMMKG/MMKG-basedSystemDesign.pdf) 
-- [Figure of template](https://github.com/farahhuifanyang/Acalligence/blob/365af18331c13ac1e5247d9bd3bb7b8db71062c0/SystemDesignDocs/FiguresForDesign/FrameworkTemplate.png)
+- [Framework template](https://github.com/farahhuifanyang/Acalligence/blob/365af18331c13ac1e5247d9bd3bb7b8db71062c0/SystemDesignDocs/FiguresForDesign/FrameworkTemplate.png)
+  
