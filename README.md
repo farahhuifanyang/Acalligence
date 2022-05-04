@@ -8,5 +8,6 @@
 - 20220503
 - [Instructions](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/AboutMMKG/MMKG-basedSystemDesign.pdf) 
 - [Framework template](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/FrameworkTemplate.png)
-  
+
+  <img src="D:\Huifan\Projects\IntelligenceAnalysis\Acalligence\SystemDesignDocs\FiguresForDesign\FrameworkTemplate.png" style="zoom:48%;" />
 
