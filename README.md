@@ -9,5 +9,5 @@
 - [Instructions](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/AboutMMKG/MMKG-basedSystemDesign.pdf) 
 - [Framework template](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/FrameworkTemplate.png)
 
-  <img src=".\SystemDesignDocs\FiguresForDesign\FrameworkTemplate.png" style="zoom:20%;" />
+  <img src=".\SystemDesignDocs\FiguresForDesign\FrameworkTemplate.png" width="500" height="900" />
 
