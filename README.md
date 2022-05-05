@@ -14,4 +14,6 @@
 ## Framework of Acalligence
 
 - 20220505
-- Framework
+- [Framework of Acalligence](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/AcalligenceFramework.png)
+
+  <img src=".\SystemDesignDocs\FiguresForDesign\AcalligenceFramework.png" width="500" height="1100" />
