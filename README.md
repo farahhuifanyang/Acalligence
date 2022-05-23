@@ -5,7 +5,7 @@
 
 ## Framework Template for MMKG-based Systems
 
-- 20220503
+- 20220521
 - [Instructions](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/AboutMMKG/MMKG-basedSystemDesign.pdf) 
 - [Framework template](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/FrameworkTemplate.png)
 
@@ -13,7 +13,7 @@
 
 ## Framework of Acalligence
 
-- 20220505
+- 20220521
 - [Framework of Acalligence](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/AcalligenceFramework.png)
 
   <img src=".\SystemDesignDocs\FiguresForDesign\AcalligenceFramework.png" width="500" height="1100" />
