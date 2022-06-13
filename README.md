@@ -1,9 +1,9 @@
 # Acalligence
 **Acalligence** is an academy intelligence analysis system based on multi-modal knowledge graph (MMKG) under development by @dssc-group. This repo only includes the design documents and code contributed by Huifan.
 
-# Progress
+## Progress
 
-## Framework Template for MMKG-based Systems
+### Framework Template for MMKG-based Systems
 
 - 20220521
 - [Instructions](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/AboutMMKG/MMKG-basedSystemDesign.pdf) 
@@ -11,7 +11,7 @@
 
   <img src=".\SystemDesignDocs\FiguresForDesign\FrameworkTemplate.png" width="500" height="900" />
 
-## Framework of Acalligence
+### Framework of Acalligence
 
 - 20220521
 - [Framework of Acalligence](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/AcalligenceFramework.png)
