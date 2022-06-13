@@ -17,3 +17,8 @@
 - [Framework of Acalligence](https://github.com/farahhuifanyang/Acalligence/blob/main/SystemDesignDocs/FiguresForDesign/AcalligenceFramework.png)
 
   <img src=".\SystemDesignDocs\FiguresForDesign\AcalligenceFramework.png" width="500" height="1100" />
+
+### Demo system for Acalligence
+
+- Data labeling for information extraction (IE) of scholars & institutions
+  - Week 1 from 20220613
