@@ -1,5 +1,5 @@
 # Acalligence
-**Acalligence** is an academy intelligence analysis system based on multi-modal knowledge graph (MMKG) under development by @dssc-group. This repo only includes the design documents and code contributed by Huifan.
+**Acalligence** is an academy intelligence analysis system based on multi-modal knowledge graph (MMKG) under development by @dssc-group.
 
 ## Progress
 
@@ -22,3 +22,6 @@
 
 - Data labeling for information extraction (IE) of scholars & institutions
   - Week 1 from 20220613
+
+- A demo for scholar info page
+  - Week 2

@@ -15,8 +15,17 @@
 
 # Demo system for Acalligence
 
+## Settins
+
+- Developing on Port 8081 of Server Apple: <http://10.112.226.172:8081/#/>
+
 ## Progress
 
 ### Data labeling for information extraction (IE) of scholars & institutions
 
 - Week 1 from 20220613
+
+### A demo for scholar info page
+
+- Week 2
+- http://10.112.226.172:8081/#/EntityPerson_0

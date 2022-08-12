@@ -4,7 +4,7 @@
     <el-container>
       <el-header>
         <div class="logo">
-          <h1>PCube人立方</h1>
+          <h1>Acalligence 科技情报分析系统</h1>
         </div>
         <div class="menu">
           <el-menu
@@ -21,7 +21,7 @@
             <el-menu-item index="/EventEvolutionaryGraph"
               >事理图谱</el-menu-item
             >
-            <el-menu-item index="/Organization">政府组织架构</el-menu-item>
+            <!-- <el-menu-item index="/Organization">政府组织架构</el-menu-item> -->
             <el-menu-item index="/SixDegrees">六度搜索</el-menu-item>
             <!-- <el-popover trigger="hover" content="正在开发中，敬请期待"
               ><template #reference>

@@ -1,0 +1,131 @@
+[
+    {
+        "id": 0,
+        "name": "Parallel and Distributed Operating Systems Group", 
+        "affiliatedWith": "MIT CSAIL",
+        "country_region": "USA",
+        "address": "32 Vassar St, Cambridge MA 02139",
+        "website": "https://pdos.csail.mit.edu/",
+        "img": "./img/PDOS.svg",
+        "alias": ["PDOS"],
+
+        "intro": "We at PDOS build and investigate software systems for parallel and distributed environments, and have conducted research in systems verification, operating systems, multi-core scalability, security, networking, mobile computing, language and compiler design, and systems architecture. PDOS builds high-performance, reliable, and working systems. We are part of MIT CSAIL.See our publications for more details about our research.We work concurrently on a number of research projects. Our currently active research projects can be roughly grouped into the following categories.",
+
+        "publications": {
+            "2022": [
+                "Verifying the DaisyNFS concurrent and crash-safe file system with sequential reasoning",
+                "Verifying hardware security modules with information-preserving refinement",
+                "Verifying a concurrent, crash-safe file system with sequential reasoning",
+                "Vivid: An operating system kernel for radiation-tolerant flight control software",
+                "GoTxn: Verifying a crash-safe, concurrent transaction system",
+                "Understanding and improving the performance of mitigating transient execution attacks"
+            ],
+            "2021": [
+                "GoJournal: a verified, concurrent, crash-safe journaling system",
+                "Privacy heroes need data disguises",
+                "rtlv: push-button verification of software on hardware",
+                "Guarda: A web application firewall for WebAuthn transaction authentication",
+                "Kronos: Verifying leak-free reset for a system-on-chip with multiple clock domains"
+            ]
+        },
+        "researchArea":[
+            "systems verification",
+            "operating systems",
+            "multi-core scalability",
+            "security",
+            "networking",
+            "mobile computing",
+            "language and compiler design",
+            "systems architecture"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Amsterdam Machine Learning Lab", 
+        "affiliatedWith": "Universiteit van Amsterdam",
+        "country/region": "Netherlands",
+        "address": "Amsterdam, Nederland",
+        "website": "http://amlab.science.uva.nl/",
+        "img": "./img/amlablogo.png",
+        "alias": ["AMLab"],
+
+        "intro": "The Amsterdam Machine Learning Lab (AMLab) conducts research in machine learning, artificial intelligence, and its applications to large scale data domains in science and industry. This includes the development of deep generative models, methods for approximate inference, probabilistic programming, Bayesian deep learning, causal inference, reinforcement learning, graph neural networks, and geometric deep learning.AMLab comprises 7 faculty. Max Welling and Jan-Willem van de Meent serve as co-directors. Herke van Hoof, Patrick Forré, Eric Nalisnick, Erik Bekkers, and Christian Naesseth serve as tenure-track faculty. The lab participates in partnerships with industry through the QUvA Lab (with Qualcomm) and the Delta Lab (with Bosch). The lab also engages in cross-disciplinary collaborations through the AI4Science Lab.",
+
+        "publications": {
+            "2022": [
+                "Exploiting Redundancy: Separable Group Convolutional Networks on Lie Groups",
+                "CITRIS: Causal Identifiability from Temporal Intervened Sequences",
+                "Learning Symmetric Embeddings for Equivariant World Models",
+                "Adapting the Linearised Laplace Model Evidence for Modern Deep Learning",
+                "Calibrated Learning to Defer with One-vs-All Classifiers",
+                "Model-based Meta Reinforcement Learning using Graph Structured Surrogate Models and Amortized Policy Search",
+                "Experimental design for MRI by greedy policy search",
+                "Amortized Causal Discovery: Learning to Infer Causal Graphs from Time-Series Data",
+                "Geometric and Physical Quantities improve E (3) Equivariant Message Passing",
+                "Self-Supervised Inference in State-Space Models",
+                "Detecting dispersed radio transients in real time using convolutional neural networks",
+                "Multi-Agent MDP Homomorphic Networks",
+                "Deep Policy Dynamic Programming for Vehicle Routing Problems",
+                "Fast and Data Efficient Reinforcement Learning from Pixels via Non-Parametric Value Approximation",
+                "Value Refinement Network (VRN)",
+                "Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods"
+            ],
+            "2021": [
+                "Modeling Category-Selective Cortical Regions with Topographic Variational Autoencoders",
+                "Predictive Coding With Topographic Variational Autoencoders",
+                "Topographic VAEs learn Equivariant Capsules",
+                "Self Normalizing Flows",
+                "As easy as APC: Leveraging self-supervised learning in the context of time series classification with varying levels of sparsity and severe class imbalance",
+                "Variational combinatorial sequential Monte Carlo methods for Bayesian phylogenetic inference",
+                "Rate-Regularization and Generalization in Variational Autoencoders",
+                "Nested Variational Inference",
+                "Conjugate Energy-Based Models"
+            ]
+        },
+        "researchArea":[
+            "machine learning",
+            "artificial intelligence",
+            "deep generative models",
+            "approximate inference",
+            "probabilistic programming",
+            "Bayesian deep learning",
+            "causal inference",
+            "reinforcement learning",
+            "graph neural networks",
+            "geometric deep learning"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Carnegie Mellon Database Group", 
+        "affiliatedWith": "Carnegie Mellon University",
+        "country/region": "USA",
+        "address": "5000 Forbes Avenue Pittsburgh, PA 15213",
+        "website": "https://db.cs.cmu.edu/",
+        "img": "./img/cmudblogo.png",
+        "alias": ["CMU DATABASE GROUP"],
+
+        "intro": "The Database Group at Carnegie Mellon University is a leading research collective that focuses on database systems, data mining, and machine learning. We participate in a number of cross-disciplinary research efforts, and closely collaborate with other groups at CMU.",
+
+        "publications": {
+            "2022": [
+                "Tastes Great! Less Filling! High Performance and Accurate Training Data",
+                "Are You Sure You Want to Use MMAP in Your Database Management System?"
+            ],
+            "2021": [
+                "MB2: Decomposed Behavior Modeling for Self-Driving Database Management Systems",
+                "Filter Representation in Vectorized Query Executionrs",
+                "Make Your Database System Dream of Electric Sheep: Towards Self-Driving Operation",
+                "An Inquiry into Machine Learning-based Automatic Configuration Tuning Services on Real-World Database Management Systems",
+                "Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in Database Management Systems",
+                "Succinct Range Filters",
+                "Spitfire: A Three-Tier Buffer Manager for Volatile and Non-Volatile Memory"
+            ]
+        },
+        "researchArea":[
+            "database systems",
+            "data mining",
+            "machine learning"
+        ]
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "id": 0,
+        "name": "Robert Morris",
+        "gender": "male",
+        "email": "rtm@csail.mit.edu",
+        "relatedLink": "http://nil.lcs.mit.edu/rtm/",
+        "img": "morris.jpg",
+        "organizationId": 0,
+        "department": "EECS",
+        "rank": "Professor",
+    
+        "intro": "Robert Morris is a professor in MIT's EECS department and a member of the Computer Science and Artificial Intelligence Laboratory. He received a PhD from Harvard University for work on modeling and controlling networks with large numbers of competing connections. As a graduate student he helped design and build an ARPA-funded ATM switch with per-circuit hop-by-hop flow control. He led a mobile communication project which won a best student paper award from USENIX. He co-founded Viaweb, an e-commerce hosting service. His current interests include modular software-based routers, analysis of the aggregation behavior of Internet traffic, and scalable ad-hoc routing.",
+    
+        "highestEducation":"Ph.D.",
+        "detailedEducation": [
+            {
+                "phase": "B.A.",
+                "university": "Havard University",
+                "startYear": 1983,
+                "endYear": 1987,
+                "major": null,
+                "supervisor": null
+            },
+            {
+                "phase": "Master",
+                "university": "Cornell University",
+                "startYear": null,
+                "endYear": null,
+                "major": null,
+                "supervisor": null
+            },
+            {
+                "phase": "Ph.D.",
+                "university": "Havard University",
+                "startYear": null,
+                "endYear": 1999,
+                "major": "Scalable TCP Congestion Control",
+                "supervisor": "Hsiang-Tsung Kung"
+            }
+        ],
+
+        "researchArea": [
+            "operating systems",
+            "networks",
+            "distributed systems",
+            "storage systems"
+        ],
+        "projects": {
+            "Noria": "https://pdos.csail.mit.edu/projects/noria.html",
+            "Biscuit":"https://pdos.csail.mit.edu/projects/biscuit.html",
+            "multi-core scalability":"https://pdos.csail.mit.edu/archive/multicore/",
+            "Corey":"https://pdos.csail.mit.edu/archive/corey/",
+            "Asbestos":"https://pdos.csail.mit.edu/papers/asbestos-sosp05.pdf",
+            "Pastwatch":"https://pdos.csail.mit.edu/archive/pastwatch/",
+            "Ivy":"https://pdos.csail.mit.edu/archive/ivy/",
+            "Chord and DHash":"https://github.com/sit/dht/wiki",
+            "Ron": "http://nms.lcs.mit.edu/projects/ron/",
+            "Roofnet": "https://pdos.csail.mit.edu/papers/roofnet:mobicom05/roofnet-mobicom05.pdf",
+            "Click": "https://pdos.csail.mit.edu/papers/click:tocs00/paper.pdf"
+        },
+    
+        "citation": 72865,
+        "h_index": 81,
+        "papers": 328
+    },
+    {
+        "id": 1,
+        "name": "Max Welling",
+        "gender": "male",
+        "email": "welling.max@gmail.com",
+        "relatedLink": "https://staff.fnwi.uva.nl/m.welling/",
+        "img": "welling.jpg",
+        "organizationId": 1,
+        "department": "Informatics Institute",
+        "rank": "Professor",
+    
+        "intro": "Prof. Dr. Max Welling is a research chair in Machine Learning at the University of Amsterdam and a Distinguished Scientist at MSR. He is a fellow at the Canadian Institute for Advanced Research (CIFAR) and the European Lab for Learning and Intelligent Systems (ELLIS) where he also serves on the founding board. His previous appointments include VP at Qualcomm Technologies, professor at UC Irvine, postdoc at U. Toronto and UCL under supervision of prof. Geoffrey Hinton, and postdoc at Caltech under supervision of prof. Pietro Perona. He finished his PhD in theoretical high energy physics under supervision of Nobel laureate prof. Gerard‘t Hooft.Max Welling has served as associate editor in chief of IEEE TPAMI from 2011-2015, he serves on the advisory board of the Neurips foundation since 2015 and has been program chair and general chair of Neurips in 2013 and 2014 respectively. He was also program chair of AISTATS in 2009 and ECCV in 2016 and general chair of MIDL 2018. Max Welling is recipient of the ECCV Koenderink Prize in 2010 and the ICML Test of Time award in 2021. He directs the Amsterdam Machine Learning Lab (AMLAB) and co-directs the Qualcomm-UvA deep learning lab (QUVA) and the Bosch-UvA Deep Learning lab (DELTA).",
+    
+        "highestEducation":"Ph.D.",
+        "detailedEducation": [
+            {
+                "phase": "Ph.D.",
+                "university": "Utrecht University",
+                "startYear": null,
+                "endYear": 1998,
+                "major": "theoretical high energy physics",
+                "supervisor": "Gerard 't Hooft"
+            }
+        ],
+        "researchArea": [
+            "machine learning",
+            "artificial intelligence",
+            "statistics"
+        ],
+        "projects": {
+            "VAE": "https://arxiv.org/abs/1312.6114",
+            "GCN": "https://arxiv.org/abs/1609.02907"
+        },
+    
+        "citation": 76609,
+        "h_index": 84,
+        "papers": 453
+    },
+    {
+        "id": 2,
+        "name": "Andy Pavlo",
+        "gender": "male",
+        "email": "pavlo@cs.cmu.edu",
+        "relatedLink": "http://www.cs.cmu.edu/~pavlo/",
+        "img": "pavlo.jpg",
+        "organizationId": 2,
+        "department": "Computer Science Department",
+        "rank": "Associate Professor",
+    
+        "intro": "I am an Associate Professor of Databaseology in the Computer Science Department at Carnegie Mellon University. My research interest is in database management systems, specifically main memory systems, self-driving / autonomous architectures, transaction processing systems, and large-scale data analytics. At CMU, I am a member of the Database Group and the Parallel Data Laboratory. I am the co-founder and CEO of OtterTune.",
+    
+        "highestEducation":"Ph.D.",
+        "detailedEducation": [
+            {
+                "phase": "B.Sc.",
+                "university": "Rochester Institute of Technology",
+                "startYear": null,
+                "endYear": 2005,
+                "major": "Computer Science",
+                "supervisor": null
+            },
+            {
+                "phase": "M.Sc.",
+                "university": "Rochester Institute of Technology",
+                "startYear": 2005,
+                "endYear": 2006,
+                "major": "Computer Science",
+                "supervisor": null
+            },
+            {
+                "phase": "M.Sc.",
+                "university": "Brown University",
+                "startYear": 2006,
+                "endYear": 2009,
+                "major": "Computer Science",
+                "supervisor": null
+            },
+            {
+                "phase": "Ph.D.",
+                "university": "Brown University",
+                "startYear": 2009,
+                "endYear": 2013,
+                "major": "Computer Science",
+                "supervisor": "Stanley Zdonik"
+            }
+        ],
+
+        "researchArea": [
+            "database management systems",
+            "main memory systems",
+            "self-driving / autonomous architectures",
+            "transaction processing systems",
+            "large-scale data analytics"
+        ],
+        "projects": {
+            "NoisePage": "https://noise.page/",
+            "BenchBase": "https://github.com/cmu-db/benchbase",
+            "OtterTune": "https://ottertune.cs.cmu.edu/",
+            "Database of Databases": "https://dbdb.io/",
+            "CMDBAC": "https://cmdbac.cs.cmu.edu/",
+            "H-store": "https://hstore.cs.brown.edu/",
+            "NoSQL TPC-C framework": "https://github.com/apavlo/py-tpcc",
+            "PVLDB paper announcement": "https://github.com/apavlo/pvldb-announce"
+        },
+    
+        "citation": 7242,
+        "h_index": 33,
+        "papers": 98
+    }
+]

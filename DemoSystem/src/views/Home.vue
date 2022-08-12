@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1 class="slogan">最快最全 台海信息聚合平台</h1>
+    <h1 class="slogan">Acalligence 科技情报分析系统</h1>
     <el-row>
       <el-col :span="24"
         ><div class="grid-content">
